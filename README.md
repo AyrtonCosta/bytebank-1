@@ -10,14 +10,4 @@ Projeto desenvolvido no curso de Angular na Alura. Construído uma aplicação d
 
 - Angular v.12
 
-### Author
 
-**Luciane Santos**
-
-- Email: lucianesantcs@gmail.com
-- GitHub: [@lucianesantcs](https://github.com/lucianesantcs)
-- LinkedIn: [@lucianesantcs](https://linkedin.com/in/lucianesantcs)
-
-### License
-
-© 2021 Luciane Santos / Alura
